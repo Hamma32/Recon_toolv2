@@ -1,0 +1,13 @@
+2025-12-08 20:09:09 | INFO     | ReconTool | Logging session started: 20251208_200909
+2025-12-08 20:09:09 | INFO     | ReconTool | [SYSTEM] Recon Tool started
+2025-12-08 20:09:09 | INFO     | ReconTool | [NETWORK] Local IP: 192.168.1.26, Gateway: 192.168.1.1
+2025-12-08 20:09:09 | INFO     | ReconTool | [SECURITY] MITM detector started
+2025-12-08 20:09:38 | INFO     | ReconTool | [ATTACK] Spoofing started: 192.168.1.12 <-> 192.168.1.1
+2025-12-08 20:10:19 | INFO     | ReconTool | [UI] Exported Sniffing data to /home/kali/Downloads/KO Projects/recon_toolv1/test2.pcap
+2025-12-08 20:10:21 | INFO     | ReconTool | [ATTACK] Restoring network config
+2025-12-08 20:10:21 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 0
+2025-12-08 20:12:38 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 1
+2025-12-08 20:12:38 | INFO     | ReconTool | [ATTACK] Spoofing started: 192.168.1.11 <-> 192.168.1.1
+2025-12-08 20:13:12 | INFO     | ReconTool | [ATTACK] Restoring network config
+2025-12-08 20:13:12 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 0
+2025-12-08 20:13:14 | INFO     | ReconTool | [SYSTEM] Application closing

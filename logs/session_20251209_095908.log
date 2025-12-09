@@ -1,0 +1,15 @@
+2025-12-09 09:59:08 | INFO     | ReconTool | Logging session started: 20251209_095908
+2025-12-09 09:59:08 | INFO     | ReconTool | [SYSTEM] Recon Tool started
+2025-12-09 09:59:08 | INFO     | ReconTool | [NETWORK] Local IP: 192.168.110.217, Gateway: 192.168.110.1
+2025-12-09 09:59:08 | INFO     | ReconTool | [SECURITY] MITM detector started
+2025-12-09 09:59:57 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 1
+2025-12-09 09:59:57 | INFO     | ReconTool | [ATTACK] Spoofing started: 192.168.110.98 <-> 192.168.110.1
+2025-12-09 10:04:48 | INFO     | ReconTool | [ATTACK] Restoring network config
+2025-12-09 10:04:48 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 0
+2025-12-09 10:05:07 | INFO     | ReconTool | [ATTACK] DNS Spoofing started for 192.168.110.98
+2025-12-09 10:05:07 | INFO     | ReconTool | [ATTACK] Starting DNS Spoofing: facebook.com -> 192.168.110.217
+2025-12-09 10:05:07 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 1
+2025-12-09 10:05:07 | INFO     | ReconTool | [ATTACK] Spoofing started: 192.168.110.98 <-> 192.168.110.1
+2025-12-09 10:05:24 | INFO     | ReconTool | [ATTACK] Restoring network config
+2025-12-09 10:05:24 | INFO     | ReconTool | [SYSTEM] IP Forwarding set to 0
+2025-12-09 10:07:32 | INFO     | ReconTool | [SYSTEM] Application closing
